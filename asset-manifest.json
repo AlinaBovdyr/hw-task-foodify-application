@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/hw-task-foodify-application/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/hw-task-foodify-application/static/js/main.ef1a5b16.chunk.js",
-    "main.js.map": "/hw-task-foodify-application/static/js/main.ef1a5b16.chunk.js.map",
-    "runtime-main.js": "/hw-task-foodify-application/static/js/runtime-main.d1a79ce3.js",
-    "runtime-main.js.map": "/hw-task-foodify-application/static/js/runtime-main.d1a79ce3.js.map",
-    "static/js/2.ff35c4b1.chunk.js": "/hw-task-foodify-application/static/js/2.ff35c4b1.chunk.js",
-    "static/js/2.ff35c4b1.chunk.js.map": "/hw-task-foodify-application/static/js/2.ff35c4b1.chunk.js.map",
-    "static/js/3.ac403561.chunk.js": "/hw-task-foodify-application/static/js/3.ac403561.chunk.js",
-    "static/js/3.ac403561.chunk.js.map": "/hw-task-foodify-application/static/js/3.ac403561.chunk.js.map",
+    "favorites-page.js": "/hw-task-foodify-application/static/js/favorites-page.6d49bcce.chunk.js",
+    "favorites-page.js.map": "/hw-task-foodify-application/static/js/favorites-page.6d49bcce.chunk.js.map",
+    "main.css": "/hw-task-foodify-application/static/css/main.219ab76d.chunk.css",
+    "main.js": "/hw-task-foodify-application/static/js/main.c9c4bb5f.chunk.js",
+    "main.js.map": "/hw-task-foodify-application/static/js/main.c9c4bb5f.chunk.js.map",
+    "random-dish-page.css": "/hw-task-foodify-application/static/css/random-dish-page.be3529b9.chunk.css",
+    "random-dish-page.js": "/hw-task-foodify-application/static/js/random-dish-page.3df8a010.chunk.js",
+    "random-dish-page.js.map": "/hw-task-foodify-application/static/js/random-dish-page.3df8a010.chunk.js.map",
+    "runtime-main.js": "/hw-task-foodify-application/static/js/runtime-main.14dbec26.js",
+    "runtime-main.js.map": "/hw-task-foodify-application/static/js/runtime-main.14dbec26.js.map",
+    "static/js/4.9e5a9963.chunk.js": "/hw-task-foodify-application/static/js/4.9e5a9963.chunk.js",
+    "static/js/4.9e5a9963.chunk.js.map": "/hw-task-foodify-application/static/js/4.9e5a9963.chunk.js.map",
+    "static/css/5.bc922b9c.chunk.css": "/hw-task-foodify-application/static/css/5.bc922b9c.chunk.css",
+    "static/js/5.2a4eb7a0.chunk.js": "/hw-task-foodify-application/static/js/5.2a4eb7a0.chunk.js",
+    "static/js/5.2a4eb7a0.chunk.js.map": "/hw-task-foodify-application/static/js/5.2a4eb7a0.chunk.js.map",
     "index.html": "/hw-task-foodify-application/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/hw-task-foodify-application/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ff35c4b1.chunk.js.LICENSE.txt": "/hw-task-foodify-application/static/js/2.ff35c4b1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hw-task-foodify-application/static/media/logo.6ce24c58.svg"
+    "static/css/5.bc922b9c.chunk.css.map": "/hw-task-foodify-application/static/css/5.bc922b9c.chunk.css.map",
+    "static/css/main.219ab76d.chunk.css.map": "/hw-task-foodify-application/static/css/main.219ab76d.chunk.css.map",
+    "static/css/random-dish-page.be3529b9.chunk.css.map": "/hw-task-foodify-application/static/css/random-dish-page.be3529b9.chunk.css.map",
+    "static/js/5.2a4eb7a0.chunk.js.LICENSE.txt": "/hw-task-foodify-application/static/js/5.2a4eb7a0.chunk.js.LICENSE.txt",
+    "static/media/Placeholder.0ee1dc9b.jpg": "/hw-task-foodify-application/static/media/Placeholder.0ee1dc9b.jpg",
+    "static/media/not_found.c1d9e774.jpg": "/hw-task-foodify-application/static/media/not_found.c1d9e774.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1a79ce3.js",
-    "static/js/2.ff35c4b1.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.ef1a5b16.chunk.js"
+    "static/js/runtime-main.14dbec26.js",
+    "static/css/5.bc922b9c.chunk.css",
+    "static/js/5.2a4eb7a0.chunk.js",
+    "static/css/main.219ab76d.chunk.css",
+    "static/js/main.c9c4bb5f.chunk.js"
   ]
 }
