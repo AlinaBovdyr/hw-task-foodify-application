@@ -1,0 +1,19 @@
+.button {
+  padding: 10px;
+  min-width: 190px;
+  background-color: #874b00;
+  color: #fff;
+  font-weight: 600;
+  border: transparent;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #bf6b00de;
+}
+
+.button:active {
+  background-color: #db7e07;
+}

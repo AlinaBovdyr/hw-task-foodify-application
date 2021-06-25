@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  padding: 20px;
+  z-index: 10;
+  height: 50px;
+  background-color: #d6ddab;
+  color: #5d6242;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  margin-right: 30px;
+  font-weight: 600;
+}
+
+.item:last-child {
+  margin-right: 0;
+}
+
+.item:hover {
+  transform: scale(1.1);
+}
+
+.link {
+  color: #5d6242;
+}
+
+.activeLink {
+  color: #874b00;
+}
+
+@media screen and (min-width: 768px) {
+  .item {
+    margin-right: 60px;
+  }
+}
