@@ -1,11 +1,11 @@
 import PropTypes from 'prop-types';
 import s from './Button.module.css';
 
-const Button = ({ title, className }) => {
+const Button = ({ title, className, ...restProps }) => {
   const classList = [className, s.button].join(' ');
 
   return (
-    <button className={classList} type='button'>
+    <button className={classList} {...restProps}>
       {title}
     </button>
   );

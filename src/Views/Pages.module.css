@@ -1,0 +1,25 @@
+.addBtn {
+  position: fixed;
+  top: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  width: 150px;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+@media screen and (min-width: 768px) {
+  .addBtn {
+    top: 8px;
+    left: 70%;
+    transform: none;
+    width: 190px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .addBtn {
+    left: 75%;
+  }
+}
